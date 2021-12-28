@@ -1,2 +1,2 @@
-# macro-download-and-execute
+# Macro download & execute
 This is a simple macro script that can download evil file and execute it silently xD 
